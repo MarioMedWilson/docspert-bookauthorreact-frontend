@@ -8,7 +8,7 @@ This project fetches books and their pages from api django through a simple REST
 1. Clone the repository
 
    ```
-   git clone 
+   git clone https://github.com/MarioMedWilson/docsperts-bookauthorreact-frontend.git
    ```
 
 2. Navigate to the project directory
